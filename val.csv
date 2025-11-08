@@ -1,0 +1,373 @@
+file,id_sente,id_article,domain,year,sentences,classe
+C24_Oglobo_10-12-2021_21h04_titulo,871,c24o,politics,2021,Ataque hacker tira do ar site do Ministério da Saúde e o ConecteSUS.,0
+C85_Folha_22-08-2007_20h12,5192,c85f,politics,2007,"Após as defesas, os ministros discutirão sobre as preliminares, apresentadas pelos advogados.",0
+C52_Folha_28-09-2022_11h06,2617,c52f,politics,2022,Também estiveram no espaço membros de entidades de observação das eleições.,0
+C33_Folha_26-09-2007,1446,c33f,politics,2007,"Hugo Chávez e alguns acadêmicos e reforçadas pela divulgação, no dia anterior, de relatório feito a pedido da ONU.",0
+C73_OGlobo_17-10-2022_06h14,4287,c73o,sports,2022,(Leia mais sobre o que argumenta a defesa de Neymar ao final da reportagem.),0
+C13_OGlobo_21-09-2022_12h07_titulo,224,c13o,world,2022,"Vídeos publicados em redes sociais mostram mulheres jogando seus hijabs em uma fogueira, cortando o cabelo, entre outras demonstrações que desafiam o regime.",0
+C8_OGlobo_04-08-2006_14h13,3268,c8o,sports,2006,"Com oito títulos, a Itália é a maior vencedora da competição.",0
+C60_Folha_07-10-2022_10h37,3171,c60f,world,2022,"O Brasil tem sido acusado de adotar posição de neutralidade em relação a Moscou, importante parceira comercial e aliada no Brics.",1
+C50_OGlobo_05-11-2007_18h22,2509,c50o,politics,2007,"Entretanto, para passar no Senado Federal, onde o governo tem mais dificuldades, o Executivo resolveu abrir negociações com a oposição.",0
+C36_OGlobo_20-07-2007-22h04,1647,c36o,politics,2007,"Somente este ano, o senador se internou por três vezes no Incor.",0
+C69_OGlobo_15-10-2022_19h57,3924,c69o,politics,2022,"""O Grupo Jovem Pan esclarece ainda que o debate de ideias faz parte de toda a programação, contemplando o amplo espectro ideológico, garantindo o respeito ao contraditório, como é natural no debate democrático"", diz a nota da emissora.",-1
+C100_OGlobo_19-10-2022_19h49,3345,c100o,politics,2022,"Considerando os votos válidos, quando são excluídos os votos nulos e brancos, Tarcísio tem 55% e Haddad, 45%.",0
+C93_Estadao_15-12-2006_14h59,5653,c93e,politics,2006,No governo do Paraná não se fala em aumento nos subsídios de secretários estaduais.,0
+C42_OGlobo_19-09-2007_13h37_titulo,1997,c42o,politics,2007,Conselho decide no voto se unifica processos contra Renan.,0
+C70_Estadao_16-10-2022_10h58,3954,c70e,politics,2022,O deputado distrital Leandro Grass (PV) encaminhou ofício à Procuradoria-Geral da República pedindo investigação sobre a conduta do chefe do Executivo.,0
+C11_Folha_08-08-2006,127,c11f,daily,2006,Somente no fim da manhã o expediente voltou ao normal.,0
+C77_Estadao_18-10-2022_10h07,4593,c77e,politics,2022,"O documento foi assinado no final da tarde do domingo, 16, e as intimações foram expedidas nesta segunda-feira, 17.",0
+C48_OGlobo_25-09-2022_18h05,2325,c48o,world,2022,O apoio à Ucrânia continuará diante da invasão russa?,0
+C45_OGlobo_18-10-2007_08h33,2157,c45o,culture,2007,Quem sabe até a 'Tropa de elite'!,-1
+C4_Oglobo_16-07-2007-19h15,1842,c4o,daily,2007,A previsão é que ocorram novas pancadas entre a noite de terça e a manhã de quarta.,0
+C91_OGlobo_19-12-2007_13h32,5550,c91o,politics,2007,"Por seis votos contra três, o Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (19) que o projeto de transposição do Rio São Francisco não deve ser paralisado.",0
+C53_OGlobo_19-09-2022_08h56,2691,c53o,politics,2022,O Ipec está denunciando o vídeo no Sistema de Alerta de Desinformação Contra as Eleições do Tribunal Superior Eleitoral (TSE) e no Ministério Público Eleitoral (MPE) para que adotem as medidas cabíveis.,-1
+C72_Estadao_17-10-2022_00h30,4112,c72e,politics,2022,"Acabou reverberando um discurso antiquado de que, ao admitir que a floresta é um patrimônio mundial, o Brasil perde soberania.",1
+C17_Folha_21-08-2006,396,c17f,politics,2006,"As pessoas já começam a querer conhecer, saber o que fez"", afirmou o tucano.",-1
+C81_Estadao_07-10-2022_08h48,4876,c81e,culture,2022,"Ernaux tentou escrever um romance com o pai como personagem, mas achou descabido adotar um ponto de",1
+C59_OGlobo_06-10-2022_21h11,3073,c59o,politics,2022,"A gente quer ter o direito de ter acesso à cultura, ao lazer"", disse Lula.",-1
+C25_Estadao_30-12-2021_12h34_titulo,919,c25e,culture,2021,Morre a escritora Lya Luft aos 83 anos.,0
+C62_Folha_14-10-2022_12h15_titulo,3441,c62f,politics,2022,"Município de 11,5 mil habitantes informou ter feito 12,7 mil radiografias de dedo em um ano.",0
+C52_OGlobo_28-09-2022_10h34_titulo,2633,c52o,politics,2022,"Após visita à sala de totalização, Moraes reafirma que votação é auditável e processo, transparente",0
+C72_OGlobo_17-10-2022_08h05_titulo,4243,c72o,politics,2022,"Os candidatos Jair Bolsonaro (PL) e Lula (PT) participaram do debate organizado pelo grupo Bandeirantes, Folha de S.Paulo, Uol, TV Cultura e CNN.",0
+C48_Folha_25-09-2022_18h04,2287,c48f,world,2022,"Em relação à Guerra da Ucrânia, defende a linha Draghi, condenando a ação russa e apoiando o envio de armas a Kiev.",0
+C75_OGlobo_17-10-2022_14h45,4496,c75o,politics,2022,"Durante visita ao 1o Polo Universitário de Paraisópolis, fomos atacados por criminosos.",-1
+C22_Folha_24-07-2007_titulo,769,c22f,daily,2007,Boicote a Congonhas gera filas e reclamações.,1
+C84_Folha_15-10-2007_00h00,5123,c84f,politics,2007,A emenda é de autoria de Marco Maciel (DEM-PE) e foi relatada por Tasso Jereissati (PSDB-CE).,0
+C42_Estadao_25-09-2007_14h28,1956,c42e,politics,2007,"O presidente do Conselho de Ética do Senado, senador Leomar Quintanilha (PMDB-TO), admitiu que vai trabalhar para tentar unificar pelos menos duas das três representações em curso contra o Renan, na reunião do órgão marcada para esta quarta.",0
+C45_Folha_18-10-2007_08h03,2109,c45f,culture,2007,"A polícia de São Paulo afirmou ontem ter detido dois suspeitos de ter participado do roubo do relógio Rolex do apresentador Luciano Huck, da TV Globo, em um semáforo do Itaim Bibi (zona oeste de SP).",0
+C80_OGlobo_17-10-2022_22h05,4836,c80o,sports,2022,"Em 2018, por exemplo, o croata Luka Modric, vice-campeão, foi eleito o melhor jogador na Rússia e depois desbancou Messi e Cristiano Ronaldo, como o melhor do mundo.",1
+C74_Estadao_17-10-2022_13h29,4342,c74e,politics,2022,"Os cantores Gusttavo Lima, 33, e Leonardo, 59, foram ao Palácio da Alvorada, em Brasília, manifestar apoio ao presidente Jair Bolsonaro (PL).",0
+C50_OGlobo_05-11-2007_18h22,2503,c50o,politics,2007,"A assessoria de imprensa do Ministério da Fazenda confirmou ainda que, após o encontro, haverá uma entrevista coletiva.",0
+C67_Folha_15-10-2022_12h24,3779,c67f,politics,2022,Foi um voto contra o projeto petista.,-1
+C7_OGlobo_04-08-2006_12h02,3243,c7o,science,2006,"Esta é a primeira vez que se observam dois corpos celestes unidos pela gravidade de ""planetas flutuantes livres"" (""free floating planets"", em inglês).",0
+C87_Folha_25-07-2007_12h59,5294,c87f,politics,2007,"O presidente da Fentac (Federação Nacional dos Trabalhadores em Aviação Civil), Celso Klafke, disse hoje que a substituição de Waldir Pires por Nelson Jobim no Ministério da Defesa indica o início de outras mudanças no comando do setor aéreo do país.",0
+C83_Folha_01-02-2007_20h44,5069,c83f,politics,2007,"O que está em discussão é a qualidade do governo Lula, que dependerá de um bom cimento político que nós estamos tentando montar.",-1
+C88_Folha_24-08-2008_16h57,5337,c88f,politics,2008,"Na carta, a diretora solicita a renúncia ""em caráter irretratável, por motivos pessoais"".",-1
+C11_OGlobo_07-08-2006_08h29,138,c11o,daily,2006,"No momento, apenas um taxista e um passageiro estavam na rua.",0
+C55_OGlobo_27-09-2022_19h04,2833,c55o,politics,2022,Constituinte Eymael (Democracia Cristã):,0
+C10_Estadao_24-09-2022_21h45,56,c10e,politics,2022,"Torabit havia coletado mais de 328 mil tuítes ? ao menos 110 mil citaram diretamente Bolsonaro; sobre Lula, eram 92 mil.",0
+C88_Folha_24-08-2008_16h57,5335,c88f,politics,2008,"Em nota lida por um assessor da agência, Denise Abreu alegou motivos pessoais para deixar o cargo.",0
+C94_Estadao_18-10-2022_19h36,5780,c94e,politics,2022,"O presidente da Casa, Rodrigo Pacheco (PSD-MG), já disse que o projeto não será colocado diretamente na pauta do plenário e precisará ser discutido na Comissão de Constituição e Justiça (CCJ).",0
+C65_Folha_14-10-2022_13h05,3644,c65f,culture,2022,"Os ativistas também colaram as mãos no quadro de John Constable, uma prática repetida em outras manifestações no Reino Unido.",0
+C28_Estadao_15-07-2007_17h24,1137,c28e,sports,2007,"Agora, a meta é a medalha de ouro dos Jogos Pan-Americanos, que estão sendo disputados no Rio de Janeiro.",0
+C17_OGlobo_24-10-2006_01h21,428,c17o,politics,2006,Ele se queixou de o tucano insistir na mesma tecla nos debates: a corrupção.,1
+C100_OGlobo_19-10-2022_19h49,3360,c100o,politics,2022,"No levantamento anterior, de 7 de outubro, o candidato do Republicanos somava 50%, e o do PT, 40%.",0
+C27_Estadao_18-10-2007_00h04,1041,c27e,sports,2007,"Maicon disparou pela direita e cruzou uma bola rasteira, que Vágner Love empurrou para o gol de carrinho: 1 a 0.",0
+C52_Folha_28-09-2022_11h06,2613,c52f,politics,2022,"O presidente do PL, Valdemar Costa Neto, disse nesta quarta-feira (28) que o setor de totalização de votos do TSE (Tribunal Superior Eleitoral) não é uma sala secreta, ao contrário do que afirmou diversas vezes o presidente Jair Bolsonaro (PL).",0
+C85_OGlobo_22-08-2007_11h05,5216,c85o,politics,2007,"O esquema funcionava da seguinte maneira: para esconder o caixa-dois da campanha do PT, empresas que faziam doações ao partido tinham os valores repassados diretamente para uma das empresas de Marcos Valério, que era responsável por ocultar as irregularidades.",0
+C93_Estadao_15-12-2006_14h59,5648,c93e,politics,2006,"Na Câmara Municipal de Belo Horizonte, os 41 vereadores também podem ser beneficiados.",0
+C65_Estadao_14-10-2022_11h56,3597,c65e,culture,2022,"No final de junho, os ativistas atingiram a pintura de 1889",0
+C8_Estadao_04-08-2006_13h56,3256,c8e,sports,2006,"Portugal e Argentina - que duelam duas vezes neste final de semana, em Portugal - completam a chave.",0
+C14_OGlobo_21-08-2006_07h40,261,c14o,world,2006,Uma colisão entre dois trens de passageiros provocou a morte de pelo menos 80 pessoas e deixou 165 feridas.,0
+C28_Folha_15-07-2007_17h12,1157,c28f,sports,2007,Foram 17 vitórias em 18 partidas.,0
+C34_Folha_20-08-2007_12h22,1532,c34f,politics,2007,O motivo que mais leva os contribuintes à malha fina é a omissão de renda própria ou de dependentes.,0
+C79-Folha_17-10-2022_23h01,4736,c79f,politics,2022,"Moro quer reforçar sua imagem como um símbolo do antipetismo no país e voltar a andar ao lado do bolsonarismo, de onde vem a maioria do seu apoio político.",1
+C68_Folha_16-10-2022_10h48,3864,c68f,world,2022,"O regime de Xi, após a ida da democrata, realizou uma série de exercícios aéreos ao redor de Taiwan, no que Taipé descreveu como simulações de ataques a seu território.",0
+C24_Folha_10-12-2021_17h49,855,c24f,politics,2021,"""aguarde até 10 dias úteis para que seu registro de vacina apareça no ConecteSUS, caso não aconteça busque o estabelecimento de saúde onde você tomou a vacina e solicite o registro na Rede Nacional de Dados em Saúde (RNDS), do Ministério da Saúde"".",-1
+C21_OGlobo_06-08-2007_16h23_titulo,729,c21o,daily,2007,Pista de Cumbica será fechada em março de 2008 para reformas,0
+C74_Estadao_17-10-2022_13h29,4331,c74e,politics,2022,"Mostrar que tem dois lados bastante distintos"", disse Bolsonaro no vídeo.",-1
+C97_OGlobo_18-10-2022_20h28_titulo,6073,c97o,politics,2022,Presidente da Corte Eleitoral reforçou que prática é crime e será combatida.,0
+C38_Folha_17-07-2007_12h15_titulo,1710,c38f,sports,2007,Equipe de revezamento 4 x 200 m conquista o terceiro ouro para o Brasil,0
+C85_OGlobo_22-08-2007_11h05,5204,c85o,politics,2007,"""Houve recebimento de vantagens indevidas por parlamentares e dirigentes partidários com periodicidade variável, mas constante entre 2002 e 2003.",-1
+C4_Oglobo_16-07-2007-19h15,1857,c4o,daily,2007,O rodízio de veículos vigora na cidade e hoje há restrição de circulação para os carros com placas final 1 e 2.,0
+C4_Estadao_16-07-2007_09h24_titulo,1820,c4e,daily,2007,"Às 9 horas, cidade registra 113 km de lentidão e oito pontos de alagamento",0
+C86_Estadao_17-04-2007_13h45,5227,c86e,politics,2007,"Foi também solicitado o bloqueio de seis contas bancárias nos Estados Unidos, Portugal e Panamá, pertencentes aos suspeitos.",0
+C77_Folha_18-10-2022_10h15,4616,c77f,politics,2022,"Depois do fechamento das urnas, técnicos das Forças Armadas fizeram verificações sobre o teste de integridade e a checagem da totalização dos votos, comparando as informações de cerca de 400 boletins de urna com os dados que chegaram ao TSE para a contagem.",0
+C77_Estadao_18-10-2022_10h07,4587,c77e,politics,2022,"As tropas já haviam sido intimadas pelo Tribunal de Contas da União (TCU) a apresentar os documentos do procedimento, diante do interesse público em torno do tema e da ""urgência do caso"".",0
+C95_OGlobo_11-10-2022_21h45,5920,c95o,politics,2022,"Ele se perpetua em alguns cenários ou ele permanece durante longos períodos de tempo, porque diferente de outros consumos, que quando o preço sobe as pessoas diminuem, no caso da alimentação, não.",-1
+C11_Folha_08-08-2006,128,c11f,daily,2006,X foram destruídos e o forro de gesso que cobria o teto caiu.,0
+C15_Estadao_20-09-2022_17h11,274,c15e,politics,2022,"Por exemplo, os integralistas se opõem à teologia da libertação, uma espécie de campo progressista da religião, e ao aborto, inclusive em caso de estupro.",0
+C39_Estadao_28-04-2022_11h47,1723,c39e,politics,2022,"À época, Lula estava sob investigação da Lava Jato.",0
+C94_Estadao_18-10-2022_19h36,5749,c94e,politics,2022,"""Deve votar antes da eleição"", afirmou.",-1
+C25_Folha_30-12-2021_12h20,937,c25f,culture,2021,"O Quarto Fechado"", ""Exílio"", ""O Lado Fatal"", ""O Rio do Meio"" e ""Mar de Dentro"".",0
+C63_Folha_14-10-2022_12h53,3499,c63f,politics,2022,"O empresário Thiago Brennand, 42, foi preso em Abu Dhabi, nos Emirados Árabes Unidos.",0
+C39_OGlobo_28-04-2022_09h03,1807,c39o,politics,2022,"Uma vitória não apenas do presidente Lula, mas de todos aqueles que acreditam na democracia e no Estado de direito.",-1
+C23_OGlobo_24-07-2007_16h04,828,c23o,world,2007,"Ela se declarou ""comovida e muito preocupada"" com as enchentes, em mensagem de incentivo aos desabrigados, informou o Palácio de Buckingham.",0
+C92_Folha_25-10-2007_07h30_titulo,5579,c92f,politics,2007,"""Interrupção da gravidez tem tudo a ver com a violência pública"", afirma.",-1
+C54_OGlobo_28-09-2022_07h28,2745,c54o,politics,2022,"""A atuação de Bolsonaro na Presidência da República revelou a uma Nação estarrecida por seus atos e declarações a constrangedora figura de um político menor, sem estatura presidencial, de elevado coeficiente de mediocridade, destituído de respeitabilidade política, adepto de corrente ideológica de extrema-direita que perigosamente nega reverência à ordem democrática, ao primado da Constituição e aos princípios fundantes da República"", escreveu Celso de Mello em um trecho da nota.",-1
+C95_OGlobo_11-10-2022_21h45_titulo,5936,c95o,politics,2022,"Em setembro, os preços medidos pelo IPCA caíram, em média, 0,29%, principalmente por causa dos combustíveis.",0
+C37_Folha_18-10-2007,1664,c37f,daily,2007,Nenhum dos dois corre risco de morte.,0
+C4_Oglobo_16-07-2007-19h15,1854,c4o,daily,2007,O Aeroporto de Congonhas funciona normalmente nesta segunda.,0
+C91_Folha_19-12-2007_12h43,5533,c91f,politics,2007,O TRF (Tribunal Regional Federal) da 1ª Região havia concedido uma tutela antecipada suspendido as obras.,0
+C18_Estadao_16-04-2007_13h44,475,c18e,world,2007,"O incidente, que aconteceu no campus da Virginia Tech, no estado da Virgínia, deixou outros 26 feridos.",0
+C93_Estadao_15-12-2006_14h59,5671,c93e,politics,2006,"O presidente da Assembléia Legislativa do Rio, Jorge Picciani (PMDB), afirmou nesta sexta-feira que ""não há o que fazer"" em relação à repercussão, na Casa, da decisão de aumento de salário do Congresso.",0
+C98_Folha_19-10-2022_18h19,6108,c98f,politics,2022,"Brancos e nulos eram 5% e indecisos, 1%.",0
+C30_Folha_07-08-2007_09h19,1301,c30f,daily,2007,"Os créditos voltados para grandes empresas totalizaram R$ 25,63 bilhões, um aumento de 16% sobre junho de 2005.",0
+C64_Folha_14-10-2022_14h07,3534,c64f,culture,2022,"Coltrane ganhou fama com seu papel em ""Harry Potter e a Pedra Filosofal"", longa em que interpreta o guardião das chaves do castelo de magia",0
+C86_Estadao_17-04-2007_13h45,5226,c86e,politics,2007,"Estão sendo cumpridos também 52 mandados de busca e apreensão em imóveis comerciais e residenciais localizados, em sua maioria, na região metropolitana de São Paulo e também nos Estados do Rio de Janeiro, Bahia e Amazonas, para a apreensão de provas.",0
+C20_OGlobo_19-09-2007_16h13,667,c20o,politics,2007,"É uma questão de Estado"", disse Mantega a jornalistas.",-1
+C54_Estadao_28-09-2022_01h10,2710,c54e,politics,2022,"Segundo o ex-ministro, Bolsonaro apresenta ""comportamento vulgar, de todo incompatível com a seriedade do cargo que exerce"" e que o presidente ""causou o efeito perverso de vergonhosamente degradar a dignidade do ofício presidencial ao plano menor de gestos patéticos e de claro (e censurável) desapreço ao regime em que se estrutura o Estado Democrático de Direito"".",-1
+C25_Folha_30-12-2021_12h20,936,c25f,culture,2021,"O primeiro de seus cerca de 30 livros foi ""Canções de Limiar"", que reuniu uma série de poemas e foi publicado em 1964.",0
+C44_Folha_19-09-2007_12h03,2071,c44f,politics,2007,"Vamos unificar se eu for voto vencido"", disse.",-1
+C59_Folha_27-09-2022_10h13_titulo,3061,c59f,politics,2022,"Formulador do Real, André Lara Resende declara apoio a Lula no 1º turno.",0
+C14_Estadao_21-08-2006_10h15,233,c14e,world,2006,"Os feridos, vários deles em estado grave, foram levados para seis hospitais da região onde aconteceu o acidente, um dos piores ocorridos no Egito desde 2002, disse El-Gabaly, citado pela agência egípcia de notícias Mena.",0
+C57_Folha_06-10-2022_05h12,2939,c57f,world,2022,Líderes mundiais também expressaram seu pesar diante do caso.,0
+C54_Estadao_28-09-2022_01h10,2709,c54e,politics,2022,"O ex-ministro, que se aposentou em 2020, se une a um grupo de ex-integrantes da Corte que vão apoiar o ex-presidente nas eleições.",0
+C15_Folha_20-09-2022_19h44,285,c15f,politics,2022,"O contexto da guerra cria urgência sobre a segurança energética e deixa em xeque os planos de transição da União Europeia, que até então estava em uma posição mais confortável para pedir ao restante do mundo mais ambição nas metas de redução das emissões de gases-estufa.",1
+C27_Folha_17-10-2007_23h53,1063,c27f,sports,2007,"Após o ""frango"", Kaká sorriu e mal comemorou, aos 40min.",1
+C27_Folha_17-10-2007_23h53,1059,c27f,sports,2007,"Aos 12min, em cobrança de falta, o Equador quase empatou a partida.",0
+C25_Estadao_30-12-2021_12h34,893,c25e,culture,2021,Antes eu recebia uma crítica ruim e ficava mal por três dias.,-1
+C65_Folha_14-10-2022_13h05,3637,c65f,culture,2022,"Na ocasião, em maio, o homem jogou algo parecido com uma torta no quadro.",0
+C25_OGlobo_31-12-2021_21h56,976,c25o,culture,2021,Também foi professora universitária e colunista de diversas publicações.,0
+C83_OGlobo_01-02-2007_20h43,5076,c83o,politics,2007,"A votação do segundo turno foi encerrada às 20h43, e 510 dos 513 parlamentares votaram na disputa entre os dois governistas pela presidência da Câmara.",0
+C50_Folha_06-11-2007_12h57,2470,c50f,politics,2007,"""Nós queremos que se faça mais ou o governo vai ter que concordar com o voto contrário"", ameaçou o senador.",-1
+C5_OGlobo_27-08-2007_07h52,2456,c5o,politics,2007,"Os novos indicados e o brigadeiro Jorge Velozo, diretor de Segurança Operacional, Investigação e Prevenção de Acidentes Aeronáuticas, que é mais próximo do comando da Aeronáutica, teriam maioria no colegiado.",0
+C76_Folha_18-10-2022_9h58,4545,c76f,daily,2022,"O banco, por outro lado, tem ressaltado quatro ações tomadas a partir de junho: a contratação de uma auditoria externa; a formação de um comitê independente para a investigação das denúncias; a vinculação da corregedoria ao Conselho de Administração para maior independência;",0
+C79-Folha_17-10-2022_23h01,4721,c79f,politics,2022,"Após as tentativas fracassadas de se viabilizar como pré-candidato ao Palácio do Planalto e de transferência de domicílio eleitoral para São Paulo, Moro decidiu disputar o Senado.",1
+C66_OGlobo_15-10-2022_08h39,3720,c66o,sports,2022,"Em 2013, Oscar entrou para o Hall da Fama do Basquete, que fica justamente nos Estados Unidos.",0
+C82_Folha_09-01-2006_10h08,4973,c82f,politics,2006,"Ficamos novamente no remendo e não resolvemos o principal"", disse ele, que é membro da Comissão de Infra-Estrutura do Senado.",-1
+C81_Estadao_07-10-2022_08h48,4850,c81e,culture,2022,"""É preciso estar longe para amar a sua",-1
+C44_Folha_19-09-2007_12h03,2059,c44f,politics,2007,"Mas reconheceu que, dificilmente, os relatores terão posições semelhantes nas representações.",0
+C18_Estadao_16-04-2007_13h44,478,c18e,world,2007,"Pelosi, por sua vez, pediu um minuto de silêncio na Câmara e disse que ""se trata do pior tiroteio em um campus na história do país"".",0
+C55_Estadao_28-09-2022_10h00,2767,c55e,politics,2022,O objetivo é evitar que resultados desatualizados afetem os números do agregador.,0
+C89_Estadao_31-10-2007_15h02,5362,c89e,politics,2007,hoje governador eleito da Paraíba pelo PSDB.,0
+C79-Folha_17-10-2022_23h01,4719,c79f,politics,2022,"Aliados de Moro dizem que a expectativa é que, mesmo na Espanha, o ex-juiz faça um aceno à reeleição de Bolsonaro.",0
+C81_Folha_06-10-2022_15h58,4899,c81f,culture,2022,""" era a pergunta que, suspeita a autora, o amante ouvia dos amigos.",-1
+C57_Folha_06-10-2022_05h12,2951,c57f,world,2022,Vídeos compartilhados nas redes sociais mostram lençóis cobrindo o que parecem ser corpos de crianças deitados sobre poças de sangue.,0
+C58_OGlobo_15-09-2022_21h16,3006,c58o,politics,2022,"Depois da repercussão negativa e desgastes na equipe da campanha pela reeleição do presidente Jair Bolsonaro, o ministro da Economia, Paulo Guedes, disse nesta quarta-feira (14) que o governo vai rever os cortes, mas só depois da eleição.",0
+C94_Estadao_18-10-2022_19h36,5774,c94e,politics,2022,"O deputado Paulo Martins (PL-PR), que é da base bolsonarista, será o relator da iniciativa e ficará com a tarefa de construir um texto de consenso que tenha votos para ser aprovado pela Câmara.",0
+C9_Folha_04-08-2006_13h20,3301,c9f,politics,2006,"Também foram presos o juiz José Jorge Ribeiro da Luz, o conselheiro do Tribunal de Contas Edilson de Souza Silva, o procurador de Justiça José Carlos Vitachi, o diretor geral da Assembléia Legislativa, José Ronaldo Palitot, servidores, assessores e familiares de deputados.",0
+C77_OGlobo_18-10-2022_09h21,4633,c77o,politics,2022,o presidente Jair Bolsonaro (PL) terá 5 dias para apresentar defesa.,0
+C39_Estadao_28-04-2022_11h47,1720,c39e,politics,2022,"A argumentação de Moro, à época, era de que as escutas sobre o escritório foram autorizadas porque o número da banca de advocacia estava registrado como referência da empresa de palestras de Lula.",0
+C94_Folha_18-10-2022_18h44,5815,c94f,politics,2022,"No mesmo dia, a Polícia Federal instaurou um inquérito, a pedido de Torres.",0
+C61_Estadao_14-10-2022_07h36,3370,c61e,politics,2022,"A margem de erro é de dois pontos para mais ou para menos, com índice de confiança de 95%.",0
+C10_Estadao_24-09-2022_21h45,54,c10e,politics,2022,"Simone Tebet (MDB) superou Ciro Gomes (PDT) e ocupou o terceiro posto, em um momento em que ambos tentam evitar a perda de apoio para Lula, por conta do fenômeno do ""voto útil"".",1
+C69_Estadao_15-10-2022_23h31,3900,c69e,politics,2022,"O corregedor acrescentou que comentários feitos na emissora procuram ""incutir nos eleitores o medo de um 'golpe de esquerda', do fechamento de igrejas e do domínio do crime organizado"" em caso de vitória de Lula na eleição presidencial.",-1
+C86_Folha_13-04-2007_10h40,5237,c86f,politics,2007,"Antes, a escola havia sido tricampeã entre 2003 e 2005.",0
+C23_Folha_20-07-2007_13h42,807,c23f,world,2007,"""Nunca vimos enchentes dessa altura"", afirmou um porta-voz da Agência Ambiental.",-1
+C16_Folha_21-08-2006_10h14,336,c16f,politics,2006,"Ao contrário do escândalo do mensalão, no caso dos sanguessugas, os parlamentares estão sendo abandonados pelos partidos --especialmente por ser ano eleitoral.",1
+C80_OGlobo_17-10-2022_22h05_titulo,4847,c80o,sports,2022,"A espanhola Alexia Putellas, jogadora do Barcelona, ganhou pelo segundo ano consecutivo como a melhor jogadora de futebol do mundo.",0
+C82_Folha_09-01-2006_10h08,4977,c82f,politics,2006,O governo federal irá iniciar nesta segunda-feira a operação tapa-buraco nas estradas do país.,0
+C31_Folha_17-10-2007_09h39,1332,c31f,sports,2007,"O revezamento terminará em 8 de agosto, primeiro dia das Olimpíadas de Pequim.",0
+C68_Folha_16-10-2022_10h48,3852,c68f,world,2022,"De Hong Kong, comentários das autoridades questionando as declarações de Xi não são esperados.",0
+C69_Estadao_15-10-2022_23h31,3885,c69e,politics,2022,"""A sociedade, hoje, está em rede, e a apreensão de mensagens se faz de forma complexa.",-1
+C88_Estadao_23-08-2008_15h05,5316,c88e,politics,2008,"""Estava no acidente da gol.",-1
+C24_Estadao_14-12-2021_07h05,850,c24e,politics,2021,"O presidente Jair Bolsonaro sancionou a lei que endurece as punições previstas no Código Penal para crimes cometidos por meio de dispositivos eletrônicos, ou seja, os cibernéticos.",0
+C97_Estadao_18-10-2022_11h50_titulo,6021,c97e,politics,2022,"Minas é o Estado que registrou o maior número de denúncias, 70 até aqui.",0
+C15_OGlobo_20-09-2022_12h25,302,c15o,politics,2022,O presidente ainda pediu uma reforma no Conselho de Segurança da ONU.,0
+C42_Folha_25-09-2007_11h44,1981,c42f,politics,2007,"O foco das investigações é a venda da fábrica, o que envolve o irmão do senador Renan"", afirmou.",-1
+C45_OGlobo_18-10-2007_08h33,2148,c45o,culture,2007,"O apresentador foi roubado num semáforo da Rua Doutor Renato Paes de Barros, no Itaim Bibi, por motoqueiros.",0
+C30_OGlobo_07-08-2007_09h10,1313,c30o,daily,2007,"No total, os efeitos não recorrentes foram de R$ 196 milhões.",0
+C92_Folha_25-10-2007_07h30,5576,c92f,politics,2007,"O governador Sérgio Cabral Filho (PMDB), 44 anos, propõe a legalização do aborto como forma de conter a violência no Rio de Janeiro.",0
+C4_Folha_16-07-2007_09h51,1839,c4f,daily,2006,"O Centro de Gerenciamento de Emergência (CGE), da prefeitura, colocou toda a cidade em estado de atenção.",0
+C73_Estadao_17-10-2022_09h18,4262,c73e,sports,2022,"Pouco antes do meio-dia, o jogador de futebol deixou o prédio da audiência, localizado numa área central da metrópole espanhola, acompanhado da mãe, enquanto o pai decidiu ficar com os demais réus",0
+C84_Folha_15-10-2007_00h00,5128,c84f,politics,2007,O mesmo não vale para cargos do Executivo.,0
+C55_OGlobo_27-09-2022_19h04,2840,c55o,politics,2022,"Lula oscilou em relação à última pesquisa, quando obteve 43% das menções.",0
+C27_Folha_17-10-2007_23h53,1083,c27f,sports,2007,"Novamente, Kaká chutou de fora da área.",0
+C13_Estadao_20-09-2022_15h53,191,c13e,world,2022,"Ela também afirmou que a polícia ""disparou munição real"" e usou gás lacrimogêneo contra os manifestantes.",0
+C98_Folha_19-10-2022_18h19,6100,c98f,politics,2022,"A aferição do Datafolha ocorreu após o debate entre os oponentes realizado por Folha, UOL, Bandeirantes e Cultura no domingo (16).",0
+C56_Folha_06-10-2022_16h13,2873,c56f,world,2022,"Como esses são territórios federais, o uso de maconha pode ser coibido por agentes federais.",0
+C26_Estadao_20-12-2021_13h00,993,c26e,world,2021,"Neste domingo, Eduardo Bolsonaro foi um dos bolsonaristas a lamentar a derrota.",1
+C37_OGlobo_17-10-2007_12h21,1680,c37o,daily,2007,"Neste mesmo pavilhão, no início deste mês, os presos quebraram objetos e fizeram um túnel para tentar uma fuga em massa.",0
+C67_OGlobo_15-10-2022_13h46,3811,c67o,politics,2022,"Seu posicionamento não representa o Partido Novo e vai contra tudo o que sempre defendemos"", postou o partido.",-1
+C18_Folha_16-04-2007_15h46,513,c18f,world,2007,"Um deles foi morto em um dormitório e outros foram assassinados dentro de uma sala de aula, segundo o chefe de polícia do campus, W.R. Flinchum.",0
+C6_Folha_25-09-2022_04h00,3121,c6f,politics,2022,"Há uma semana, quando o Ipespe perguntou aos eleitores numa pesquisa telefônica de âmbito nacional se eles falam abertamente sobre seus candidatos em conversas com desconhecidos ou em locais públicos, 38% disseram que evitam declarar seu voto para presidente.",0
+C65_Folha_14-10-2022_13h05,3610,c65f,culture,2022,"""Pensem na Terra, há pessoas que estão destruindo o planeta.",-1
+C12_Estadao_07-08-2006_02h29,147,c12e,world,2006,"A agência sul-coreana ""Yonhap"" disse na sexta-feira que um alto funcionário de Pyongyang pediu o envio urgente de alimentos para seu país.",0
+C62_Folha_14-10-2022_12h15,3437,c62f,politics,2022,"Os responsáveis pela inserção de dados falsos nos sistemas do SUS, alvos de prisão temporária, são suspeitos de práticas ilegais investigadas em vários municípios do estado desde 2018, segundo a PF.",0
+C19_OGlobo_13-04-2007_16h32,560,c19o,sports,2007,"Devido aos antecedentes, foi levado à terapia intensiva"".",-1
+C72_OGlobo_17-10-2022_08h05,4219,c72o,politics,2022,"A fabricante Pfizer divulgou nota, em janeiro de 2021, na qual afirma que ofereceu ao governo brasileiro a possibilidade de compra de um lote de 70 milhões de doses da vacina contra a Covid ainda em agosto de 2020, com previsão de entrega a partir de dezembro de 2020.",0
+C77_Estadao_18-10-2022_10h07,4592,c77e,politics,2022,"Notícias de realização de auditoria das urnas pelas Forças Armadas, mediante entrega de relatório ao candidato à reeleição, parecem demonstrar a intenção de satisfazer a vontade eleitoral manifestada pelo Chefe do Executivo, podendo caracterizar, em tese, desvio de finalidade e abuso de poder"", alertou o presidente do TSE no despacho.",-1
+C79-Folha_17-10-2022_23h01_titulo,4753,c79f,politics,2022,Ex-ministro reatou relação com Bolsonaro em meio à campanha eleitoral e foi levado a debate para provocar Lula.,1
+C30_Estadao_07-08-2007_07h59,1276,c30e,daily,2007,"Em relação aos primeiros três meses do ano o resultado recorrente da instituição cresceu 0,9%.",0
+C55_OGlobo_27-09-2022_19h04,2832,c55o,politics,2022,Ciro Gomes (PDT):5% (5% na pesquisa anterior),0
+C67_OGlobo_15-10-2022_13h46,3798,c67o,politics,2022,"""É uma decisão difícil, pois não concordo com nenhum dos dois.",-1
+C2_Estadao_04-08-2006_12h44,570,c2e,politics,2006,A Pesquisa CNI/Ibope ainda revela que caiu de 67% para 64% os eleitores que afirmam que votariam com certeza no presidente Lula.,0
+C82_Estadao_11-01-2006_19h46,4951,c82e,politics,2006,"A operação tapa-buraco do governo federal foi hoje, novamente, alvo de críticas por parte da Associação Nacional das Empresas de Obras Rodoviárias (Aneor).",0
+C23_Estadao_23-07-2007_13h58,792,c23e,world,2007,"Cerca de 43 mil residências também estão sem eletricidade, depois que uma estação na cidade de Gloucester teve de ser desligada quando o nível da água começou a subir.",0
+C76_OGlobo_17-10-2022_23h28,4582,c76o,daily,2022,"Para simbolizar o fim da era Guimarães, o banco acabou com o uso obrigatório de gravatas.",0
+C83_Folha_01-02-2007_20h44,5052,c83f,politics,2007,"Apoiado por um megabloco partidário, o petista Arlindo Chinaglia (SP) venceu a eleição para a presidência da Câmara.",0
+C63_OGlobo_14-10-2022_08h44,3515,c63o,politics,2022,"Segundo sua defesa alegou à época, ele voltaria ao Brasil em 18 de outubro.",0
+C15_OGlobo_20-09-2022_12h25_titulo,307,c15o,politics,2022,"Bolsonaro segue roteiro de campanha na ONU e não fala sobre urnas, aliados respiram aliviados.",1
+C93_OGlobo_14-12-2006_14h15,5731,c93o,politics,2006,"Desde 2002, está em vigor um decreto legislativo que permite o reajuste por ato das Mesas.",0
+C91_Folha_19-12-2007_12h43,5535,c91f,politics,2007,"Segundo reportagem da Folha, em reunião no final da noite de ontem, representantes do governo federal e da Igreja Católica costuraram uma proposta para colocar fim ao jejum do bispo.",1
+C25_OGlobo_31-12-2021_21h56,972,c25o,culture,2021,"Morreu nesta quinta-feira (30), em Porto Alegre, a escritora Lya Luft, aos 83 anos, uma das autoras mais influentes da literatura brasileira.",1
+C49_Folha_17-07-2007_08h25,2377,c49f,politics,2007,"Os atletas dizendo sobre as quadras que eles iriam participar"".",-1
+C20_OGlobo_19-09-2007_16h13,668,c20o,politics,2007,Esse é o nível de negociação que temos.,-1
+C18_Oglobo_2007_17h05,524,c18o,world,2007,"BLACKSBURG, EUA (Reuters) - Pelo menos 32 pessoas foram mortas e muitas outras ficaram feridas na Universidade Virginia Tech na segunda-feira, segundo um assessor do Congresso norte-americano, no tiroteio com maior número de mortos em um campus na história dos Estados Unidos.",1
+C85_Estadao_20-08-2007_15h02,5174,c85e,politics,2007,O escândalo do mensalão teve início com a filmagem de Maurício Marinho recebendo R$ 3 mil de propina.,0
+C66_OGlobo_15-10-2022_08h39,3727,c66o,sports,2022,"O doutor falou, há três anos, que estava pensando em parar com a quimioterapia.",-1
+C62_OGlobo_14-10-2022_10h41,3452,c62o,politics,2022,"Os dois são apontados como os responsáveis por inserir dados falsos em sistemas do Sistema Único de Saúde (SUS) em vários municípios maranhenses para inflar a quantidade de procedimentos realizados e, dessa forma, aumentar o repasse de recursos para financiá-los.",0
+C93_Estadao_15-12-2006_14h59,5613,c93e,politics,2006,"A tendência é que a Assembléia Legislativa de Roraima siga o aumento dos deputados federais, o que elevaria os salário para R$ 17 mil.",0
+C23_OGlobo_24-07-2007_16h04,833,c23o,world,2007,"No entanto, o Exército britânico tenta aliviar a situação dos prejudicados com a distribuição de 3 milhões de garrafas de água por dia.",0
+C25_Folha_30-12-2021_12h20,929,c25f,culture,2021,"Entre os autores que trouxe para o português estão Virginia Woolf, Rainer Maria Rilke, Doris Lessing e Thomas Mann.",0
+C100_OGlobo_19-10-2022_19h49_titulo,3369,c100o,politics,2022,Pesquisa ouviu 1.806 pessoas entre 17 e 19 de outubro em 74 municípios paulistas.,0
+C95_OGlobo_11-10-2022_21h45,5909,c95o,politics,2022,"""Vou aguardando ali um pouquinho e quando der eu venho aqui e pego uma calça jeans, porque tem outras coisas, tem outras prioridades mais importantes"", conta a costureira Lici Dias.",-1
+C18_Oglobo_2007_17h05,520,c18o,world,2007,A polícia disse acreditar que um único homem é o responsável.,0
+C73_Estadao_17-10-2022_09h18_titulo,4264,c73e,sports,2022,depoimento do atleta deve ocorrer somente na sexta-feira e pode decretar a prisão do brasileiro.,0
+C96_Estadao_18-10-2022_20h41,5945,c96e,politics,2022,"Após o Tribunal Superior Eleitoral (TSE) proibir a campanha do ex-presidente Luiz Inácio Lula da Silva (PT) de explorar entrevista em que o presidente Jair Bolsonaro (PL) fala sobre um encontro com adolescentes venezuelanas, o petista foi enfático ao acusar nesta terça-feira, 18, o chefe de Executivo de pedofilia.",0
+C79-Folha_17-10-2022_23h01,4724,c79f,politics,2022,"Conversei com ele, as pequenas divergências ficaram para o passado"", afirmou Bolsonaro.",-1
+C35_OGlobo_21-09-2022_21h41,1586,c35o,world,2022,O ministro da Defesa do Reino Unido disse que nem ameaças nem propagandas conseguem esconder que a Ucrânia está vencendo essa guerra.,0
+C17_Folha_21-08-2006,386,c17f,politics,2006,"""Tem candidato aí com salto número 15.",-1
+C54_Estadao_28-09-2022_01h10_titulo,2712,c54e,politics,2022,Celso de Mello declara apoio a Lula e diz que Bolsonaro é 'político menor'.,-1
+C61_OGlobo_14-10-2022_00h01,3395,c61o,politics,2022,"Na pesquisa anterior do Datafolha, divulgada na sexta-feira passada (7), Lula tinha 49% das intenções de votos, ante 44% de Bolsonaro.",0
+C74_Estadao_17-10-2022_13h29,4322,c74e,politics,2022,Esse país aqui não pode jamais mudar as cores da bandeira.,-1
+C93_Estadao_15-12-2006_14h59_titulo,5700,c93e,politics,2006,Entenda o efeito cascata do aumento salarial no Legislativo.,0
+C91_Estadao_15-12-2007_00h00,5506,c91e,politics,2007,"Entre elas, os três irmãos e dois cunhados do bispo, que desde o início do protesto acompanham o religioso em Sobradinho, 554 quilômetros a noroeste de Salvador (BA).",0
+C44_Folha_19-09-2007_12h03,2057,c44f,politics,2007,"Ficou fatiado nesse monte de processos porque o conselho assim o quis"", criticou Nery.",-1
+C67_Folha_15-10-2022_12h24,3770,c67f,politics,2022,"Bolsonaro confirmou ser não apenas um péssimo gestor, como já prevíamos, mas também uma pessoa sem compaixão com o próximo.",-1
+C94_Estadao_18-10-2022_19h36_titulo,5793,c94e,politics,2022,"Câmara aprova urgência para projeto que pune institutos de pesquisas, mas relator descarta prisão.",0
+C26_Estadao_20-12-2021_13h00,990,c26e,world,2021,"Ex-líder estudantil, ele é deputado e foi eleito pelo partido Convergência Social.",0
+C40_Estadao_06-08-2007_16h17,1866,c40e,politics,2007,"O líder do DEM, senador José Agripino (RN), afirmou que vai reunir a bancada na terça-feira para formalizar o pedido de investigação contra Renan.",0
+C51_OGlobo_08-09-2022_14h31,2566,c51o,world,2022,"Neto de Elizabeth II, o príncipe William também foi até o castelo de Balmoral.",0
+C95_Folha_19-10-2022_04h00,5893,c95f,politics,2022,"Insumos usados no campo ficaram mais caros durante a pandemia, elevando os gastos para a produção de alimentos.",0
+C45_Folha_18-10-2007_08h03,2126,c45f,culture,2007,"Onde está a ""Elite da Tropa'?",-1
+C65_Estadao_14-10-2022_11h56,3583,c65e,culture,2022,"A pintura tem valor estimado em 84,2 milhões de libras (R$ 506,2 milhões).",0
+C20_Estadao_15-09-2007_18h03,630,c20e,politics,2007,"O PSDB votou com o governo na Comissão de Constituição e Justiça (CCJ) da Câmara que aprovou, nesta quarta-feira, 15, a votação das propostas que prorrogam a CPMF até 2011.",0
+C54_OGlobo_28-09-2022_07h28,2753,c54o,politics,2022,"O ministro aposentado do Supremo Tribunal Federal (STF) Celso de Mello divulgou nesta terça-feira (27) uma nota na qual declarou voto no ex-presidente Lula, candidato do PT à Presidência da República nas eleições deste ano.",0
+C58_Folha_14-07-2022_19h06,2980,c58f,politics,2022,"A menos de 20 dias das eleições, a tesourada acendeu um alerta na equipe de campanha de Bolsonaro, em especial quanto ao Farmácia Popular, programa de distribuição gratuita ou com desconto de medicamentos.",1
+C21_OGlobo_06-08-2007_16h23,717,c21o,daily,2007,"Enquanto durarem as obras, os vôos serão transferidos para o Aeroporto de Viracopos, em Campinas, a 95 km da Capital, segundo informa o ministério de Nelson Jobim pro meio de nota.",0
+C7_Estadao_04-08-2006_14h13,3217,c7e,science,2006,Cerca de metade das estrelas do tamanho do Sol existem em pares.,0
+C54_Folha_28-09-2022_06h25,2725,c54f,politics,2022,É por tais razões que o meu voto será dado em favor de Lula no primeiro turno.,-1
+C56_Folha_06-10-2022_16h13,2870,c56f,world,2022,"A situação muda no chamado National Mall, imensa área verde da cidade onde ficam Casa Branca, Congresso e a maioria dos monumentos e museus museus, ou no principal parque da cidade.",0
+C70_Folha_16-10-2022_3h06,3992,c70f,politics,2022,Pegou uma fala mal colocada do presidente para lhe imputar uma fake news nojenta!,-1
+C33_Estadao_25-09-2007_10h51,1395,c33e,politics,2007,"""No Haiti, estamos mostrando que a paz e a estabilidade se constroem com a democracia e o desenvolvimento social"".",-1
+C7_Folha_04-08-2006_12h02,3235,c7f,science,2006,"O maior corpo celeste, com uma massa sete vezes maior do que a de Júpiter, foi detectado a cerca de 400",0
+C71_Folha_14-10-2022_23h00,4062,c71f,politics,2022,Ele foi multado e assinou termo de ajustamento de conduta.,0
+C91_Folha_19-12-2007_12h43,5531,c91f,politics,2007,"O advogado, no pedido, ressaltou a competência do plenário do Supremo para julgar ações que discutam o projeto do rio São Francisco.",0
+C39_OGlobo_28-04-2022_09h03,1797,c39o,politics,2022,"O Comitê de Direitos Humanos da Organização das Nações Unidas (ONU) concluiu nesta quinta-feira (28) que o ex-presidente Luiz Inácio Lula da Silva (PT) teve violados os direitos políticos, a garantia a um julgamento imparcial e a privacidade na Lava Jato.",0
+C74_Estadao_17-10-2022_13h29,4346,c74e,politics,2022,Tanto Leonardo quanto Gusttavo Lima já haviam apoiado o presidente publicamente no passado.,0
+C77_OGlobo_18-10-2022_09h21_titulo,4638,c77o,politics,2022,"Pela decisão, prazo é de 48 horas; Bolsonaro terá 5 dias para apresentar defesa.",0
+C49_Folha_17-07-2007_08h25,2364,c49f,politics,2007,"É como se eu fosse convidado para o aniversário de um amigo meu, chegasse lá e encontrasse um grupo de pessoas que não queria a minha presença lá.",-1
+C37_OGlobo_17-10-2007_12h21,1681,c37o,daily,2007,O motim começou durante a festa do Dia das Crianças.,0
+C6_Estadao_25-09-2022_14h00,3116,c6e,politics,2022,"Segundo o cientista político e professor da Fundação Getulio Vargas (FGV) Fernando Abrucio, a taxa de indecisos pode ser maior do que aparece nas pesquisas.",0
+C89_Estadao_31-10-2007_15h02,5368,c89e,politics,2007,O processo está no STF desde 1995.,0
+C23_OGlobo_24-07-2007_16h04,826,c23o,world,2007,"Com a intensidade do desastre, o ministro do Meio Ambiente, Hilary Benn, prometeu hoje no Parlamento uma indenização de £ 10 milhões (? 15 milhões) para as áreas atingidas, verba somada aos £ 14 milhões (? 21 milhões) já existentes.",0
+C6_OGlobo_23-09-2022_16h19_titulo,3145,c6o,politics,2022,PT corre atrás do voto útil e tenta conter abstenção,1
+C46_Estadao_20-09-2022_17h28,2176,c46e,politics,2022,"Portanto, assim como o direito à saúde se presta a garantir o direito à vida de cada cidadão, também o direito de se defender de modo adequado contra ameaça injusta à sua própria existência parece decorrer de garantia constitucional, constituindo consequência e meio de proteção de seu direito constitucional à vida?, diz trecho da decisão.",0
+C100_OGlobo_19-10-2022_19h49,3357,c100o,politics,2022,Este índice é mais alto entre os que têm de 16 a 24 anos (25%) e entre os que pretendem votar em branco ou nulo (23%).,0
+C1_Estadao_04-08-2006_05h54,2,c1e,world,2006,As vítimas do acidente foram 14 passageiros e três membros da tripulação.,0
+C46_Estadao_20-09-2022_17h28,2166,c46e,politics,2022,"Até que o julgamento se encerre, às 23h59, os ministros podem pedir vista (ou seja, para que possam analisar o caso por mais tempo) ou destaque (ou seja, para que o caso seja julgado no plenário físico do STF).",0
+C24_Estadao_14-12-2021_07h05,847,c24e,politics,2021,"Já se a invasão do dispositivo levar ao acesso de conteúdo de comunicações eletrônicas privadas, segredos comerciais ou industriais, informações sigilosas, ou ao controle remoto não autorizado do dispositivo invadido, a pena imposta pode variar de dois a cinco anos de reclusão.",0
+C86_OGlobo_13-04-2007_10h04,5265,c86o,politics,2007,"Segundo informações da assessoria de imprensa da PF, foram cumpridos 70 mandados de busca e apreensão e 25 mandados de prisão.",0
+C59_Folha_27-09-2022_10h13,3053,c59f,politics,2022,"Na segunda (26), o ministro aposentado do STF (Supremo Tribunal Federal) Joaquim Barbosa enviou uma série de vídeos à campanha do PT nos quais critica o presidente Jair Bolsonaro (PL), defende a segurança do processo eleitoral e declara voto em Lula.",0
+C55_OGlobo_27-09-2022_19h04,2839,c55o,politics,2022,Lula (PT):,0
+C48_OGlobo_25-09-2022_18h05,2327,c48o,world,2022,O que acontecerá com os bilhões de euros do fundo de recuperação pós-covid concedidos à Itália pela UE?,0
+C45_OGlobo_18-10-2007_08h33,2162,c45o,culture,2007,"Um levantamento divulgado em fevereiro pelo Departamento de Polícia Judiciária da Capital (Decap) revelou que 61,5% dos crimes contra o patrimônio cometidos nas regiões Oeste, Centro e parte da Sul tiveram a participação de motoqueiros.",0
+C81_Estadao_07-10-2022_08h48,4874,c81e,culture,2022,"em ""um meio elegante"", pois a mãe não podia perder clientes, só fechou a loja na hora do enterro.",1
+C51_OGlobo_08-09-2022_14h31,2564,c51o,world,2022,"Na ocasião, a rainha foi criticada por sua reação vista como fria e distante.",0
+C10_Folha_24-09-2022_19h55,75,c10f,politics,2022,"“Vou acabar no primeiro dia com isso, para [a gente] ver o que está escondido"", disse.",-1
+C17_Folha_21-08-2006,401,c17f,politics,2006,"É subestimar a inteligência das pessoas"".",-1
+C90_Estadao_20-12-2007_16h28,5432,c90e,politics,2007,"Alegando que sua administração está fazendo a maior política de revitalização do rio São Francisco de toda ahistória, Lula afirmou que o projeto vai levar água a cerca de12 milhões de pessoas, que são vítimas da indústria da seca, emque caminhões-pipa são usados de maneira política.",0
+C31_Folha_17-10-2007_09h39,1330,c31f,sports,2007,"A ginasta Jade Barbosa, que obteve três medalhas nos Jogos Pan-Americanos do Rio, em julho, venceu votação na internet e será a representante brasileira no revezamento da tocha olímpica para Pequim-2008.",0
+C50_OGlobo_05-11-2007_18h22,2512,c50o,politics,2007,"O ministro da Fazenda, Guido Mantega, apresenta nesta terça-feira (6) a proposta do governo federal a senadores do PSDB para a prorrogação da Contribuição Provisória Sobre Movimentação Financeira (CPMF), informou nesta segunda-feira (5) a assessoria de imprensa do ministro.",0
+C67_Estadao_15-10-2022_17h00,3747,c67e,politics,2022,"Deve se desligar do Novo se tiver ainda dignidade ou então a Comissão de Ética deve tomar providências urgentes"", afirmou.",-1
+C67_Estadao_15-10-2022_17h00,3757,c67e,politics,2022,"O presidente da agremiação, Eduardo Ribeiro, chamou a declaração de ""vergonhosa e constrangedora"", e a executiva do partido lançou nota reforçando oposição ao candidato do PT.""O PT e o Lula representam tudo o que o nosso partido sempre combateu.",-1
+C70_OGlobo_16-10-2022_01h30,4022,c70o,politics,2022,Que vergonha é essa?,-1
+C17_Estadao_20-08-2006_21h41,376,c17e,politics,2006,"O prefeito do Rio, Cesar Maia, e o senador Antonio Carlos Magalhães (PFL-BA), cobraram uma postura mais agressiva de Alckmin.",0
+C19_OGlobo_13-04-2007_16h32,564,c19o,sports,2007,O astro argentino Diego,1
+C50_Estadao_06-11-2007_10h48,2467,c50e,politics,2007,"O senador Aloizio Mercadante, que também chegou há pouco ao Ministério da Fazenda, disse que a proposta preparada pelo governo contempla os princípios divulgados na semana passada, como a isenção de CPMF para a população de baixa renda, a desoneração do tributo para a classe média, alguns benefícios para empresas, além da aprovação da lei que flexibiliza o pagamento de precatórios, e o envio da proposta de reforma tributária para o Congresso Nacional, em 30 dias.",0
+C13_Estadao_20-09-2022_15h53,202,c13e,world,2022,"Trata-se de um incidente lamentável e desejamos não ser nunca mais testemunhas destes incidentes?, disse Rahimi, que também justificou a detenção, afirmando que a jovem havia violado o  código de vestuário anteriormente e que os policiais pediram a seus familiares que lhe trouxessem ?roupas decentes?.",0
+C99_OGlobo_19-10-2022_20h30,6171,c99o,politics,2022,"""Nosso projeto de governo tem compromisso com a vida plena em todas as suas fases.",-1
+C2_Estadao_04-08-2006_12h44_titulo,592,c2e,politics,2006,Alckmin oscilou para baixo,0
+C28_Folha_15-07-2007_17h12,1148,c28f,sports,2007,"A era Bernardinho, aliás, é a mais vitoriosa do time masculino de vôlei.",0
+C93_Folha_15-12-2006_14h59,5710,c93f,politics,2006,"Onde estão Osmar Serraglio e Osmar Dias, deputado estadual e senador pelo Estado do Paraná que não me representam e não defendem a população paranaense e brasileira destes absurdos a que somos submetidos?",-1
+C17_Estadao_20-08-2006_21h41,380,c17e,politics,2006,"Serra disse, na semana passada, durante entrevista ao ""SP TV"", da Globo, que o problema da educação no Estado estava ligado à migração.",0
+C30_OGlobo_07-08-2007_09h10,1315,c30o,daily,2007,"O desempenho da carteira foi puxado por financiamento de veículos, que cresceu 58,6% no período, e por crédito para micro, pequenas e médias empresas, que avançou 59,7%.",0
+C63_OGlobo_14-10-2022_08h44,3507,c63o,politics,2022,"A prisão ocorreu na quinta-feira em um hotel em Abu Dhabi, capital dos Emirados Árabes, às 14h (21h, no horário de Brasília), segundo a Polícia Federal e a Polícia Civil de São Paulo.",0
+C45_OGlobo_18-10-2007_08h33,2137,c45o,culture,2007,"A polícia afirma que chamou Luciano Huck para fazer o reconhecimento do criminoso, mas a assessoria do apresentador informou que ele está gravando no Rio de Janeiro e não poderá ir até a delegacia.",0
+C28_Estadao_15-07-2007_17h24,1140,c28e,sports,2007,"Esperto, o técnico Bernardinho utilizou um bloqueio alto no ponto crucial do quarto set, colocando dois pontos de vantagem no placar, o que foi necessário para fechar em 25 a 22, dando início a mais uma comemoração do vôlei masculino brasileiro.",1
+C69_OGlobo_15-10-2022_19h57,3929,c69o,politics,2022,"O PT acusa a Jovem Pan de ter se tornando ""o braço mais estridente do bolsonarismo"", com a difusão de ataques e fake news contra o sistema eleitoral, o Supremo e o TSE, além da promoção de uma ""campanha difamatória"" conta Lula em seus diversos programas transmitidos em rádio, televisão e no YouTube.",0
+C4_Folha_16-07-2007_09h50,1835,c4f,daily,2007,"Segundo o CGE, às 9h30 havia alagamentos no viaduto José Colassuono;",0
+C91_Estadao_15-12-2007_00h00,5512,c91e,politics,2007,"O movimento, pacífico, foi iniciado na manhã de quinta-feira e reuniu cerca de 200 pessoas nas duas frentes.",0
+C20_Folha_19-09-2007_13h39,639,c20f,politics,2007,"Da Câmara, a PEC segue para o Senado --onde também precisa ser aprovada em dois turnos.",0
+C45_OGlobo_18-10-2007_08h33,2142,c45o,culture,2007,"Como a polícia já tinha fotos dele, a identificação ficou mais fácil.",0
+C66_Estadao_15-10-2022_15h31,3673,c66e,sports,2022,"Após o diagnóstico da doença, o tratamento depende do tipo, localização e das características do tumor.",0
+C18_Estadao_16-04-2007_13h44,459,c18e,world,2007,A universidade disponibilizou um centro de emergência para que os familiares consigam informações sobre seus filhos e recebam atendimento de psicólogos.,0
+C21_OGlobo_06-08-2007_16h23,723,c21o,daily,2007,O Ministério da Defesa não soube informar por quanto tempo a pista permanecerá fechada.,0
+C77_Folha_18-10-2022_10h15,4614,c77f,politics,2022,"Ao todo, 15 auditores analisaram 560 boletins de urna e concluíram que não houve inconsistência na contagem.",0
+C6_Folha_25-09-2022_04h00,3118,c6f,politics,2022,"""Como Lula tem ampla vantagem nesses segmentos, pode ser um sinal de que bolsonaristas evitam abrir o voto entre eles"", diz o cientista político Antonio Lavareda, do Ipespe.",-1
+C97_OGlobo_18-10-2022_20h28,6069,c97o,politics,2022,Precisamos combater no âmbito do Judiciário [...],-1
+C97_OGlobo_18-10-2022_20h28,6058,c97o,politics,2022,"""Absolutamente inadmissível essa conduta.",-1
+C25_OGlobo_31-12-2021_21h56,952,c25o,culture,2021,"E nesse sentido, quando o pessoal fala em questão de idade, a idade não existe.",-1
+C83_OGlobo_01-02-2007_20h43,5081,c83o,politics,2007,"""Cumprimento todos aqueles que tiveram outras opsções.",-1
+C10_Folha_24-09-2022_19h55,61,c10f,politics,2022,"Bolsonaro disse que essa atitude demonstra falta de compromisso com a população, Ciro chegou a falar que o petista está de salto alto, e Tebet disse que o ex-presidente pede à população um cheque em branco ?a expressão tem sido usada diante da falta de detalhes sobre o que pretende fazer se for eleito.",0
+C74_Folha_17-10-2022_15h10,4357,c74f,politics,2022,"""Sou contra várias coisas que estão pregando por aí, o outro lado, sobre religião.",-1
+C55_Estadao_28-09-2022_10h00,2783,c55e,politics,2022,"O ex-presidente do Supremo Tribunal Federal (STF) e ex-ministro da Corte, Joaquim Barbosa, gravou vídeos em que declara voto ao ex-presidente Luiz Inácio Lula da Silva (PT) na corrida presidencial.",0
+C35_Folha_22-09-2022_16h54,1571,c35f,world,2022,Mas não foi só isso.,0
+C72_Folha_17-10-2022_01h28,4192,c72f,politics,2022,"O número mencionado pelo candidato está mais próximo da produção total de veículos -o que também inclui veículos comerciais leves, caminhões e ônibus.",0
+C70_Estadao_16-10-2022_10h58,3964,c70e,politics,2022,Que falta de respeito é essa?,-1
+C21_Folha_20-08-2007,699,c21f,daily,2007,"Discurso semelhante foi adotado pelo superintendente regional Sudeste da Infraero, Edgard Brandão Júnior.",0
+C65_Folha_14-10-2022_13h05,3646,c65f,culture,2022,"Outro caso que ganhou manchetes recentemente envolve uma das pinturas mais famosas do mundo -""Mona Lisa"", de Leonardo",0
+C65_Estadao_14-10-2022_11h56,3601,c65e,culture,2022,"Scotland Yard anunciou que seus ""oficiais correram rapidamente para o local na National Gallery nesta manhã depois que duas manifestantes da Just Stop Oil jogaram uma substância em uma pintura e depois se colaram em uma parede"".",-1
+C60_OGlobo_07-10-2022_09h01,3193,c60o,world,2022,"Houve ainda seis votos contra, de Bolívia, China, Cuba, Eritreia, Cazaquistão e Venezuela.",0
+C81_Estadao_07-10-2022_08h48,4885,c81e,culture,2022,O embate da autora com a escrita é tão importante quanto os acontecimentos que relata.,1
+C95_OGlobo_11-10-2022_21h45,5910,c95o,politics,2022,"""Isso faz com que o aumento dos preços acabe de fato permanecendo.",-1
+C95_Estadao_10-09-2022_07h25,5865,c95e,politics,2022,"No ponto de ônibus, na fila do banco ou no almoço de domingo: a inflação virou assunto entre todos os brasileiros.",1
+C60_Estadao_07-10-2022_08h43,3156,c60e,world,2022,O governo brasileiro ainda não se pronunciou sobre o motivo de sua abstenção.,0
+C58_OGlobo_15-09-2022_21h16_titulo,3021,c58o,politics,2022,Governo corta verbas de programas sociais como Farmácia Popular e Casa Verde e Amarela.,0
+C48_Estadao_25-09-2022_11h11,2266,c48e,world,2022,"Previsto inicialmente para 2023, o pleito foi antecipado após a renúncia do então primeiro-ministro Mario Draghi, em julho deste ano.",0
+C2_Folha_04-08-2006_11h38,604,c2f,politics,2006,"Heloísa também cresce, de 1% para 6%.",0
+C81_Estadao_07-10-2022_08h48,4855,c81e,culture,2022," Ela foi descrita pela Academia Sueca, responsável pelo prêmio, como autora de ""coragem"" e ""precisão clínica"" na maneira como costura literatura e memória pessoal.",0
+C90_Folha_28-11-2007_00h00,5449,c90f,politics,2007,"café, pão com manteiga e pedaços de melancia e melão.",0
+C54_Estadao_28-09-2022_01h10,2704,c54e,politics,2022,"Em seu comunicado, o magistrado chama o presidente Jair Bolsonaro de ""político menor, sem estatura presidencial"", e que abre seu voto em ""defesa da sacralidade da Constituição"".",-1
+C20_OGlobo_19-09-2007_16h13,672,c20o,politics,2007,"Na madrugada desta quarta, o governo optou por revogar duas Medidas Provisórias (Revitaliza e Sacoleiros), que estavam trancando a pauta, de modo a viabilizar uma tramitação mais rápida da CPMF.",0
+C33_OGlobo_25-09-2007_19h59_titulo,1482,c33o,politics,2007,Lula critica lógica 'predatória e insensata' do lucro na Assembléia Geral da ONU,0
+C95_OGlobo_11-10-2022_21h45,5911,c95o,politics,2022,"""Os bens duráveis têm um comportamento mais estável na comparação.",-1
+C91_Estadao_15-12-2007_00h00,5521,c91e,politics,2007,"Segundo informações de alguns membros da infantaria, a liminar chegou apenas no fim da tarde de anteontem, o que justificaria o atraso entre a determinação do Judiciário e a paralisação.",0
+C22_OGlobo_24-07-2007_10h00,776,c22o,daily,2007,"Apesar disso, os números da Infraero dão conta de que a situação é melhor se comparados aos do último fim de semana.",0
+C25_Folha_30-12-2021_12h20_titulo,939,c25f,culture,2021,"Escritora estava em sua casa, em Porto Alegre, e chegou a ser internada devido a um câncer.",0
+C15_Estadao_20-09-2022_17h11,263,c15e,politics,2022,"a frase coincide com o lema do movimento integralista, que surgiu no Brasil na década de 1930 e tem inspiração no fascismo de Benito Mussolini (1883-1945).",0
+C53_Estadao_19-09-2022_16h33,2636,c53e,politics,2022,A disputa segue estável.,-1
+C16_Folha_21-08-2006_10h14,338,c16f,politics,2006,"Como o Congresso está em recesso branco, sem sessões deliberativas, a assessoria jurídica da Casa orientou a Mesa da Câmara a apenas publicar os pedidos.",0
+C45_Folha_18-10-2007_08h03,2106,c45f,culture,2007,"""Foram dois meses de investigação e encontramos o comerciante a partir de interceptação de telefonemas, nos quais ele negociava a venda das jóias roubadas"", afirmou o delegado Edson Santi.",-1
+C27_OGlobo_18-10-2007_00h00,1108,c27o,sports,2007,"Apesar dos dois bons momentos da Seleção, o adversário se soltava mais e passou a ameaçar.",1
+C25_OGlobo_31-12-2021_21h56,956,c25o,culture,2021,"Em entrevista a Ana Maria Braga, no programa ?Mais Você?, em 2005, Lya falou sobre o amor:",0
+C27_Folha_17-10-2007_23h53,1067,c27f,sports,2007,"De fora da área, ele chutou.",0
+C10_OGlobo_24-09-2022_18h15,78,c10o,politics,2022,"""O candidato Lula, que não veio, por estar com salto alto ou achar que já ganhou...",-1
+C18_Folha_16-04-2007_15h46,505,c18f,world,2007,Não ficou claro se ele foi morto por policiais ou se se suicidou após o ataque.,0
+C25_OGlobo_31-12-2021_21h56,969,c25o,culture,2021,Lya Luft é autora de mais de 20 livros.,0
+C100_Folha_19-10-2022_18h54,3336,c100f,politics,2022,"O levantamento mostra que 49% declaram que não votariam de jeito nenhum no petista, e 42% em Tarcísio de Freitas (Republicanos).",0
+C79-Folha_17-10-2022_23h01,4745,c79f,politics,2022,O senador eleito fez uma publicação em rede social logo após o debate:,0
+C57_OGlobo_06-10-2022_05h18,2954,c57o,world,2022,"Agitado, ele atropelou funcionários.",0
+C75_OGlobo_17-10-2022_14h45,4498,c75o,politics,2022,"Estamos apurando detalhes sobre a situação"", disse o candidato no Twitter.",-1
+C24_Oglobo_10-12-2021_21h04,887,c24o,politics,2021,"Rodrigo Fragola, especialista em segurança cibernética, diz que o ataque foi planejado por criminosos.",0
+C31_Folha_17-10-2007_09h39,1333,c31f,sports,2007,"Por isso, Jade participará do evento em Buenos Aires, na Argentina, única cidade da América do Sul a receber o símbolo dos Jogos.",0
+C51_Estadao_08-09-2022_17h50_titulo,2538,c51e,world,2022,Morte da rainha Elizabeth II,0
+C78_OGlobo_18-10-2022_08h18_titulo,4689,c78o,world,2022,Tribunal revela áudio de pilotos antes de queda de avião Rio-Paris em 2009:,0
+C14_Folha_22-08-2006,236,c14f,world,2006,"disse Raslan Abdel-Aziz, mecânico do Exército egípcio.",0
+C2_Folha_04-08-2006_11h38,596,c2f,politics,2006,A pesquisa de hoje apresentou uma variação na lista espontânea (quando os entrevistados dizem em quem pretendem votar sem um cartão com nomes).,0
+C42_OGlobo_19-09-2007_13h37,1990,c42o,politics,2007,"A sessão em que será votada a unificação está marcada para o próximo dia 27 de setembro, informou a agência.",0
+C24_Folha_10-12-2021_17h49,861,c24f,politics,2021,"Em nota, o Ministério da Saúde disse que o ataque ""comprometeu temporariamente alguns sistemas da pasta, como o e-SUS Notifica, Sistema de Informação do Programa Nacional de Imunização (SI-PNI), ConecteSUS e funcionalidades como a emissão do Certificado Nacional de Vacinação Covid-19 e da Carteira Nacional de Vacinação Digital, que estão indisponíveis no momento"".",-1
+C7_Estadao_04-08-2006_14h13,3225,c7e,science,2006,"Usando telescópios do Observatório Europeu Sul (ESO), astrônomos descobriram um planeta com sete vezes a massa de Júpiter, o mais pesado dos que giram em torno do Sol, e outro, com o dobro desse peso.",0
+C93_Estadao_15-12-2006_14h59,5643,c93e,politics,2006,"Já os vereadores de Florianópolis, por conta de lei municipal, não poderão reajustar os salários agora, só no início da nova legislatura, daqui a dois anos.",0
+C65_Estadao_14-10-2022_11h56,3588,c65e,culture,2022,"Cada vez mais questionada por suas decisões políticas, econômicas e ambientais, a nova primeira-ministra conservadora britânica, Liz Truss, nomeada em 6 de setembro como sucessora do polêmico Boris Johnson, anunciou dois dias depois o levantamento de uma moratória sobre o fraturamento hidráulico no Reino Unido.",1
+C92_Estadao_24-10-2007_18h30,5563,c92e,politics,2007,"O governador do Rio Sérgio Cabral Filho (PMDB) defendeu nesta quarta-feira, 24, em coletiva no 35º Congresso Brasileiro de Agência de Viagens e Feira das Américas (ABAv - 2007), o aborto como método de redução da violência no Estado.",0
+C5_OGlobo_27-08-2007_07h52,2455,c5o,politics,2007,O segundo tempo da reformulação da Anac não pode ser muito demorado.,1
+C36_OGlobo_20-07-2007-22h04,1641,c36o,politics,2007,O político baiano estava internado desde o dia 13 de junho.,0
+C32_Estadao_17-07-2007_08h03_titulo,1359,c32e,world,2007,"Além de água com material radioativo, gases também vazaram da usina; autoridades descartam dano ambiental",0
+C99_OGlobo_19-10-2022_20h30,6178,c99o,politics,2022,"Eliziane Gama, do Cidadania.",0
+C7_Estadao_04-08-2006_14h13,3220,c7e,science,2006,"Nos últimos cinco anos, astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar, apelidados de objetos de massa planetária, ou planemos, localizados nos arredores de regiões de formação de estrelas.",0
+C25_Estadao_30-12-2021_12h34,896,c25e,culture,2021,"As Coisas Humanas ? um compêndio com reflexões sobre a morte dedicado a seu filho André, que morreu aos 51 anos, em 2017, enquanto surfava.",0
+C15_Folha_20-09-2022_19h44,281,c15f,politics,2022,A crítica é oportuna e faz coro com o ambientalismo.,1
+C84_OGlobo_18-10-2007_16h53,5141,c84o,politics,2007,"As torcidas não torcem pelo time, mas pelo jogador.",-1
+C75_OGlobo_17-10-2022_14h45,4494,c75o,politics,2022,"""O evento ocorreu às 11h40, estamos com duas horas e alguma coisa da ocorrência.",-1
+C72_Folha_17-10-2022_01h28,4139,c72f,politics,2022,"""Eu que fiz prisão de segurança máxima, fiz cinco"".",-1
+C97_OGlobo_18-10-2022_20h28,6065,c97o,politics,2022,"O eleitor tem que ter a liberdade, no momento do voto, para que possa, com sua consciência, escolher o melhor candidato.",-1
+C25_Estadao_30-12-2021_12h34,914,c25e,culture,2021,Nem todo mundo gosta de Paris.,-1
+C36_OGlobo_20-07-2007-22h04,1636,c36o,politics,2007,"Em maio, ACM passou mal no Senado e chegou a desmaiar em frente ao seu gabinete.",0
+C1_Folha_04-08-2006_07h42,14,c1f,world,2006,"Aviões são usados extensivamente para transporte na República Democrática do Congo, um vasto país no qual há poucas estradas pavimentadas.",1
+C27_Folha_17-10-2007_23h53,1078,c27f,sports,2007,Não demorou muito para Love acertar a meta.,1
+C55_Folha_28-09-2022_00h05,2812,c55f,politics,2022,"Pesquisa Genial/Quaest divulgada nesta quarta (28) mostra o ex-presidente Luiz Inácio Lula da Silva (PT) com 50,5% das intenções de votos válidos na corrida presidencial, contra 36,3% de Jair Bolsonaro (PL).",0
+C93_Estadao_15-12-2006_14h59,5622,c93e,politics,2006,Cada um dos 41 deputados do Pará terá seu salário reajustado de R$ 9 mil para R$ 17 mil se prevalecer o efeito cascata no aumento da Câmara Federal.,0
+C55_OGlobo_27-09-2022_19h04,2850,c55o,politics,2022,Simone Tebet (MDB): 6% (5% na pesquisa anterior),0
+C67_Folha_15-10-2022_12h24,3773,c67f,politics,2022,É um governante autocrático que se coloca acima das instituições.,-1
+C70_OGlobo_16-10-2022_01h30_titulo,4027,c70o,politics,2022,Bolsonaro faz live na madrugada para se defender após frase sobre meninas venezuelanas.,0
+C90_OGlobo_27-11-2007_17h25,5478,c90o,politics,2007,Ele teria se alimentado pela última vez por volta das 7h30 e só pretende voltar a comer se o governo suspender as obras e arquivar o projeto.,0
+C56_Estadao_06-10-2022_16h56_titulo,2867,c56e,world,2022,"Anúncio faz parte de uma série de ações executivas para tentar tomar medidas para descriminalizar a maconha, e que foram retardadas pela falta de acordos no Congresso.",0
+C65_Folha_14-10-2022_13h05,3628,c65f,culture,2022,"Em 1972, um húngaro chamado Laszlo Toth pulou o altar na basílica de São Pedro e deu 12 golpes de martelo na escultura Pietà, de Michelangelo, danificando severamente a obra renascentista.",1
+C42_Folha_25-09-2007_11h44,1985,c42f,politics,2007,"O senador defende que o conselho --antes de concluir se Renan quebrou ou não o decoro parlamentar na segunda representação-- espere a Câmara dos Deputados investigar se há envolvimento do irmão de Renan, o deputado Olavo Calheiros (PMDB-AL), nas acusações que atingem o peemedebista.",0
+C62_Folha_14-10-2022_12h15,3431,c62f,politics,2022,Este tipo de emenda é alvo de críticas pela falta de transparência e controle dos gastos.,0
+C66_Estadao_15-10-2022_15h31,3676,c66e,sports,2022,"É uma convicção, disso aqui eu não vou morrer.",-1
+C67_OGlobo_15-10-2022_13h46,3805,c67o,politics,2022,"O empresário, inclusive, tentou disputar novamente a cadeira do Palácio do Planalto neste ano, mas foi preterido por Luiz Felipe D'Avila.",0
+C72_Folha_17-10-2022_01h28,4151,c72f,politics,2022,"as penitenciárias de Catanduvas (PR), aprovada para construção em 2003 e inaugurada em 2006, Campo Grande (MS), aprovada para construção no ano de 2003 e inaugurada em 2006, Porto Velho (RO), com construção iniciada em 2006 e inaugurada em 2008, além da Penitenciária Federal de Mossoró (RN), autorizada para construção em 2005 e inaugurada em 2009.",0
+C7_OGlobo_04-08-2006_12h02,3240,c7o,science,2006,anos-luz de nosso sistema solar.,0
+C64_Estadao_14-10-2022_14h15_titulo,3527,c64e,culture,2022,"Ator morreu em hospital perto de sua casa em Larbert, na Escócia.",0
+C49_OGlobo_16-07-2007_11h54_titulo,2392,c49o,politics,2007,Mas disse que reação não vai mudar sua relação com o Rio.,-1
+C41_OGlobo_14-07-2007_22h03,1931,c41o,sports,2007,"Sem nem entrar na piscina do Centro Aquático na final do 4x100m livre, faturou o primeiro ouro em Toronto, nesta terça-feira, e diminuiu para quatro o número de pódios que faltam para o recorde.",0
+C53_OGlobo_19-09-2022_08h56,2682,c53o,politics,2022,"Depois, 37. 36.",-1
+C28_OGlobo_15-07-2007_17h18,1170,c28o,sports,2007,"E agora com mais esse título na bagagem, a seleção chega ainda com mais moral para disputar o ouro nos Jogos Pan-Americanos.",1
+C39_Estadao_28-04-2022_11h47,1725,c39e,politics,2022,"A retirada de sigilo de chamadas telefônicas interceptadas entre Lula e a então presidente Dilma Rousseff, em 2016, também foi mencionada pela ONU.",0
+C88_Estadao_23-08-2008_15h05,5321,c88e,politics,2008,"Ela acrescentou que ninguém na agência pensa em abandonar seus cargos e que não sofre pressões para sair, apesar da crise aérea que se instalou nos céus do País.",0
+C12_Estadao_07-08-2006_02h29,155,c12e,world,2006,"No entanto, a publicação, que cita autoridades norte-coreanas, desmentiu o número de até 10 mil mortos pelas inundações, calculado por algumas ONGs que trabalham na Coréia do Norte.",0
+C77_OGlobo_18-10-2022_09h21,4627,c77o,politics,2022,"A legenda argumentou que o presidente Jair Bolsonaro (PL), candidato à reeleição, defendeu em uma ""live"" que fosse feita auditoria nas urnas e que não fosse pela própria Justiça Eleitoral.",0
